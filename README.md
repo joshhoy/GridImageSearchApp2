@@ -33,6 +33,6 @@ Time Spent: 5.00 hours
 
 ## Walkthroughs
 
-![GIF Walkthrough](GridImageSearchResult)
+![GIF Walkthrough](GridImageSearchResult.gif)
 
 GIFs created by LiceCap <http://www.cockos.com/licecap/>
