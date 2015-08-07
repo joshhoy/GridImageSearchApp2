@@ -1,0 +1,5 @@
+/Users/joshho/Devel/GitHub/Android/GridImageSearchApp2/app/build/intermediates/classes/debug
+/Users/joshho/Devel/GitHub/Android/GridImageSearchApp2/app/build/intermediates/pre-dexed/debug/android-smart-image-view-1.0.0-427fde0fc9b5d828affc6157946ba472ce0c6b36.jar
+/Users/joshho/Devel/GitHub/Android/GridImageSearchApp2/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-929038dffe90c85dab1762ef25d6e25d6eb56ff7.jar
+/Users/joshho/Devel/GitHub/Android/GridImageSearchApp2/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-2d447b20ca10b1670b2927ae6703d2d36882c51a.jar
+/Users/joshho/Devel/GitHub/Android/GridImageSearchApp2/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-c99451f474f86bcc837997ca5268d7e10746fdb4.jar

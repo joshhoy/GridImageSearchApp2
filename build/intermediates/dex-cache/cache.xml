@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/GridImageSearch/app/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/GridImageSearch/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-299758fde2e4c2837ef440a66f8c410d6bd05e66.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/GridImageSearchApp2/app/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/GridImageSearchApp2/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-929038dffe90c85dab1762ef25d6e25d6eb56ff7.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/GridImageSearchApp2/app/libs/android-smart-image-view-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d76ea8c3e9a60101244d6d04aff8cc75888570f0">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/GridImageSearchApp2/app/build/intermediates/pre-dexed/debug/android-smart-image-view-1.0.0-427fde0fc9b5d828affc6157946ba472ce0c6b36.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/GridImageSearch/app/libs/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/GridImageSearch/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-c88851cc8e3a11301ad9aa05e56483a3b42dc066.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/GridImageSearch/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-c99451f474f86bcc837997ca5268d7e10746fdb4.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/GridImageSearchApp2/app/libs/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/GridImageSearchApp2/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-2d447b20ca10b1670b2927ae6703d2d36882c51a.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/GridImageSearch/app/libs/android-smart-image-view-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d76ea8c3e9a60101244d6d04aff8cc75888570f0">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/GridImageSearch/app/build/intermediates/pre-dexed/debug/android-smart-image-view-1.0.0-3f0625c5889a5e42bae08cc85154f09fb445839f.jar" />
+    </item>
+
+</items>
